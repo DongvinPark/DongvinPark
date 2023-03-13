@@ -19,7 +19,7 @@
 ## 참여한 프로젝트
 |제목|참여<br>인원|한 줄<br>요약|풀 리퀘스트 수<br>(My/전체)|역할|
 |---|---|---|---|---|
-|[ArtBubble 백엔드](https://subdued-lentil-b20.notion.site/ArtBubble-SNS-7a0efba13f7a44baa03123da97279cb5)|4인 팀|인스타그램 클론코딩|26/86|로직 개발, 쿼리 성능최적화, 리팩토링|
+|[ArtBubble](https://subdued-lentil-b20.notion.site/ArtBubble-SNS-7a0efba13f7a44baa03123da97279cb5)|Front 2<br>Back 4|인스타그램 클론코딩|26/86|로직 개발, 쿼리 성능최적화, 리팩토링|
 
 <br>
 
