@@ -3,6 +3,7 @@
 <br>
 
 ## 데이터의 특성을 고려하는 백엔드 로직 개발자
+### 배우고, 테스트하고, 기록하고, 공유합니다.
 
 <br>
 
@@ -16,16 +17,21 @@
 <br>
 
 ## 참여한 프로젝트
-- DevTraces : ArtBubble
+|제목|팀/개인|한 줄 설명|풀 리퀘스트 수(My/전체)|역할|
+|---|---|---|---|---|
+|[ArtBubble](https://github.com/DevTraces/BackEnd)|팀|인스타그램 클론코딩|26/86|로직 개발, 쿼리 성능최적화, 리팩토링|
 
 <br>
 
 ## 현재 공부 중 ...
-- ORM, JPA, Spring DataJPA
+- ORM, JPA, Spring Data JPA
 
 <br>
 
 ## 포스팅
+- [스프링 프레임워크에서 비동기 멀티스레딩 연산으로 처리 성능 높이기](https://github.com/DongvinPark/Spring_Async_Test)
+- [@Transactional의 전파단계 설정하고 테스트하기](https://github.com/DongvinPark/jpa-propagation-test)
+- [JPQL로 N+1문제 해결하면서 동시에 페이징도 사용하기](https://github.com/DongvinPark/jpa-jpql-join-converter-NplusOne-solve)
 
 <!--
 **DongvinPark/DongvinPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
