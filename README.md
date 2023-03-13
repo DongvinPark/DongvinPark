@@ -29,7 +29,12 @@
 <br>
 
 ## 포스팅
+## ![Spring Framework](https://img.shields.io/badge/-Spring-brightgreen)
 - [스프링 프레임워크에서 비동기 멀티스레딩 연산으로 처리 성능 높이기](https://github.com/DongvinPark/Spring_Async_Test)
+
+<br>
+
+## ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)
 - [@Transactional의 전파단계 설정하고 테스트하기](https://github.com/DongvinPark/jpa-propagation-test)
 - [JPQL로 N+1문제 해결하면서 동시에 페이징도 사용하기](https://github.com/DongvinPark/jpa-jpql-join-converter-NplusOne-solve)
 
