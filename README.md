@@ -1,4 +1,31 @@
-### DongvinPark의 깃허브 리포지토리
+# About DongvinPark
+
+<br>
+
+## 데이터의 특성을 고려하는 백엔드 로직 개발자
+### 꾸준히 배우고, 테스트하고, 기록합니다.
+### 팀에 기여합니다.
+### 데이터의 특성에 적합한 로직을 구현합니다.
+<br>
+
+## Technology Stack
+- ![JAVA](https://img.shields.io/badge/-JAVA-orange)
+- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen)
+- ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)
+- ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+- ![Amazon ElasticCache for Redis](https://img.shields.io/badge/-Amazon%20ElasticCache%20for%20Redis-red)
+
+<br>
+
+## Ability
+
+<br>
+
+## Studying & Learning
+
+<br>
+
+## Posting
 
 <!--
 **DongvinPark/DongvinPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
