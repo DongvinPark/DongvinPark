@@ -12,9 +12,10 @@
 - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen)
 - ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)
 - ![MySQL](https://img.shields.io/badge/-MySQL-blue)
-- ![Amazon ElasticCache for Redis](https://img.shields.io/badge/AWS-Amazon%20ElasticCache%20for%20Redis-critical)
+- ![Redis](https://img.shields.io/badge/-Redis-red)
 - ![](https://img.shields.io/badge/AWS-EC2-orange)
 - ![](https://img.shields.io/badge/AWS-RDS-blue)
+- ![Amazon ElasticCache for Redis](https://img.shields.io/badge/AWS-Amazon%20ElasticCache%20for%20Redis-critical)
 
 <br>
 
