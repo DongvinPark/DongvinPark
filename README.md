@@ -46,7 +46,7 @@
 <br>
 
 ## ![](https://img.shields.io/badge/-Data%20Structure%20%26%20Algorithm-lightgrey)
-- [파이썬 알고리즘 인터뷰 도서 문제 전부 JAVA로 풀어보기](https://github.com/DongvinPark/Python-Algorithm-Interview-solved-by-JAVA)
+- [파이썬 알고리즘 인터뷰 도서 88개 문제 전부 JAVA로 풀어보기](https://github.com/DongvinPark/Python-Algorithm-Interview-solved-by-JAVA)
 
 <br>
 
