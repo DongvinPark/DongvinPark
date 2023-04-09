@@ -31,7 +31,7 @@
 
 <br>
 
-## 포스팅
+## 포스팅 from Blog & Github
 
 ## ![JAVA](https://img.shields.io/badge/-JAVA-orange)
 - [자바 객체의 참조, 생성, 복사, 비교](https://coderslogic.net/?p=754)
