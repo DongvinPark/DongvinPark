@@ -30,7 +30,7 @@
 <br>
 
 ## 현재 공부 중 ...
-- ORM, JPA, Spring Data JPA
+- ORM, JPA, Spring Data JPA, Docker, K8s
 
 <br>
 
