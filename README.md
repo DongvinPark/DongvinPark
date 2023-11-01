@@ -30,20 +30,14 @@
 <br>
 
 ## 현재 공부 중 ...
-- ORM, JPA, Spring Data JPA, Docker, Kubernetes
+- Go Lang, MediaMTX RTSP Server, Realtime Streaming
 
 <br>
 
 ## 포스팅 from Blog & Github
 
 ## ![JAVA](https://img.shields.io/badge/-JAVA-orange)
-- [자바 객체의 참조, 생성, 복사, 비교](https://coderslogic.net/?p=754)
-- [자바 인터페이스에 대한 관점](https://coderslogic.net/?p=762)
-- [자바 객체의 비교 : ==, equals() 그리고 오버라이드](https://coderslogic.net/?p=771)
-- [자바에서 제네릭 배열 생성이 금지된 이유](https://coderslogic.net/?p=789)
-- [자바에서 숫자, 문자열, 문자 타입 간의 상호 변환방법 총정리](https://coderslogic.net/?p=814)
-- [자바 스트림 사용예시 총정리](https://coderslogic.net/?p=969)
-- [불변객체, 방어적복사, 싱글턴, 스트림, 정적팩터리 연산과 보안 : from 이펙티브 자바 3판](https://coderslogic.net/?p=1053)
+- [스프링 프로젝트를 CI/CD 파이프라인에 올리기](https://github.com/DongvinPark)
 
 <br>
 
