@@ -12,6 +12,7 @@
 - ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)
 - ![Go Lang](https://img.shields.io/badge/Go%20Lang-blue)
 - ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+- ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue)
 - ![Redis](https://img.shields.io/badge/-Redis-red)
 - ![](https://img.shields.io/badge/AWS-EC2-orange)
 - ![](https://img.shields.io/badge/AWS-RDS-blue)
