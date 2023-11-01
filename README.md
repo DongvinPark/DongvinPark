@@ -7,19 +7,16 @@
 <br>
 
 ## 기술 스택
-- ![JAVA](https://img.shields.io/badge/-JAVA-orange)
+- ![JAVA](https://img.shields.io/badge/Language-JAVA-orange)
+- ![Go Lang](https://img.shields.io/badge/Language-GO-blue)
 - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen)
 - ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)
-- ![Go Lang](https://img.shields.io/badge/Go%20Lang-blue)
-- ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue)
-- ![Redis](https://img.shields.io/badge/-Redis-red)
 - ![](https://img.shields.io/badge/AWS-EC2-orange)
 - ![](https://img.shields.io/badge/AWS-RDS-blue)
+- ![](https://img.shields.io/badge/AWS-Code_Pipeline-orange)
+- ![](https://img.shields.io/badge/AWS-Elastic_Container_Service-orange)
 - ![Amazon ElasticCache for Redis](https://img.shields.io/badge/AWS-Amazon%20ElasticCache%20for%20Redis-critical)
-- ![](https://img.shields.io/badge/Test-JUnit5-critical)
-- ![](https://img.shields.io/badge/Test-Mockito-green)
-- ![](https://img.shields.io/badge/Performance%20Test-nGrinder-orange)
 
 <br>
 
