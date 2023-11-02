@@ -12,6 +12,7 @@
 - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen)
 - ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)
 - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue)
+- ![Docker](https://img.shields.io/badge/docker-blue)
 - ![](https://img.shields.io/badge/AWS-EC2-orange)
 - ![](https://img.shields.io/badge/AWS-RDS-blue)
 - ![](https://img.shields.io/badge/AWS-Code_Pipeline-orange)
