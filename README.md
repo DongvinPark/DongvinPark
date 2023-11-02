@@ -37,7 +37,7 @@
 <br>
 
 ## 현재 공부 중 ...
-- Go Lang, MediaMTX RTSP Server, Realtime Streaming
+- Go Lang, MediaMTX RTSP Server, Real Time Streaming Protocol
 
 <br>
 
