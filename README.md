@@ -7,17 +7,24 @@
 <br>
 
 ## 기술 스택
-- ![JAVA](https://img.shields.io/badge/Language-JAVA-orange)
-- ![Go Lang](https://img.shields.io/badge/Language-GO-blue)
-- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen)
-- ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)
-- ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue)
-- ![Docker](https://img.shields.io/badge/docker-blue)
-- ![](https://img.shields.io/badge/AWS-EC2-orange)
-- ![](https://img.shields.io/badge/AWS-RDS-blue)
-- ![](https://img.shields.io/badge/AWS-Code_Pipeline-orange)
-- ![](https://img.shields.io/badge/AWS-Elastic_Container_Service-orange)
-- ![Amazon ElasticCache for Redis](https://img.shields.io/badge/AWS-Amazon%20ElasticCache%20for%20Redis-critical)
+- ![HTTP](https://img.shields.io/badge/RFC_Spec-gray)
+  - ![HTTP](https://img.shields.io/badge/HTTP-yellow)
+  - ![RTSP](https://img.shields.io/badge/RTSP-informational)
+- ![JAVA](https://img.shields.io/badge/Language-gray)
+  - ![JAVA](https://img.shields.io/badge/JAVA-orange)
+  - ![Go Lang](https://img.shields.io/badge/GO-blue)
+- ![Framework / Library](https://img.shields.io/badge/Framework_Library-gray)
+  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen)
+  - ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)
+- ![Database](https://img.shields.io/badge/Database-gray)
+  - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue)
+  - ![Docker](https://img.shields.io/badge/docker-blue)
+- ![](https://img.shields.io/badge/AWS-gray)
+  - ![](https://img.shields.io/badge/EC2-orange)
+  - ![](https://img.shields.io/badge/RDS-blue)
+  - ![](https://img.shields.io/badge/Code_Pipeline-orange)
+  - ![](https://img.shields.io/badge/Elastic_Container_Service-orange)
+  - ![Amazon ElasticCache for Redis](https://img.shields.io/badge/Amazon%20ElasticCache%20for%20Redis-critical)
 
 <br>
 
