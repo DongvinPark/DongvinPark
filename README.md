@@ -25,7 +25,6 @@
   - ![](https://img.shields.io/badge/RDS-blue)
   - ![](https://img.shields.io/badge/Code_Pipeline-orange)
   - ![](https://img.shields.io/badge/Elastic_Container_Service-orange)
-  - ![Amazon ElasticCache for Redis](https://img.shields.io/badge/Amazon%20ElasticCache%20for%20Redis-critical)
 
 <br>
 
