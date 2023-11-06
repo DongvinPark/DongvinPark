@@ -18,6 +18,7 @@
   - ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)
 - ![Database](https://img.shields.io/badge/Database-gray)
   - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue)
+- ![Dev/Ops](https://img.shields.io/badge/Dev_Ops-gray)
   - ![Docker](https://img.shields.io/badge/docker-blue)
 - ![](https://img.shields.io/badge/AWS-gray)
   - ![](https://img.shields.io/badge/EC2-orange)
