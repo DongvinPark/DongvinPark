@@ -36,7 +36,7 @@
 <br>
 
 ## 개인 프로젝트
-|제목|참여<br>인원|한 줄<br>요약|핵심 기능|깃허브|
+|제목|참여<br>인원|한 줄<br>요약|핵심 기능|PPT|
 |---|---|---|---|---|
 |Social Todo Backend|개인<br>프로젝트|비동기 & 멀티스레딩 처리를 도입한 REST API|전체 개발, 배포, 테스트 코드 작성|[링크](https://github.com/DongvinPark/Social_Todo_BackEnd)|
 
