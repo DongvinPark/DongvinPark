@@ -7,7 +7,7 @@
 <br>
 
 ## 기술 스택
-- ![HTTP](https://img.shields.io/badge/RFC_Spec-gray)
+- ![RFC-SPEC](https://img.shields.io/badge/RFC_Spec-gray)
   - ![HTTP](https://img.shields.io/badge/HTTP-yellow)
   - ![RTSP](https://img.shields.io/badge/RTSP-informational)
 - ![JAVA](https://img.shields.io/badge/Language-gray)
@@ -28,23 +28,30 @@
 
 <br>
 
-## 참여한 프로젝트
-|제목|참여<br>인원|한 줄<br>요약|풀 리퀘스트 수<br>(My/전체)|역할|깃허브|
-|---|---|---|---|---|---|
-|ArtBubble|Front 2<br>Back 4|인스타그램 클론코딩|26/86|로직 개발, 쿼리 성능최적화, 리팩토링|[링크](https://github.com/DevTraces/BackEnd)|
-|Social Todo Backend|개인<br>프로젝트|비동기 처리를 도입한 REST API|5/5|전체 개발, 배포, 테스트 코드 작성|[링크](https://github.com/DongvinPark/Social_Todo_BackEnd)|
+## 현업 프로젝트
+|제목|참여<br>인원|한 줄<br>요약|역할|깃허브|
+|---|---|---|---|---|
+|.|.|.|.|.|
+
+<br>
+
+## 개인 프로젝트
+|제목|참여<br>인원|한 줄<br>요약|핵심 기능|깃허브|
+|---|---|---|---|---|
+|Social Todo Backend|개인<br>프로젝트|비동기 처리를 도입한 REST API|전체 개발, 배포, 테스트 코드 작성|[링크](https://github.com/DongvinPark/Social_Todo_BackEnd)|
 
 <br>
 
 ## 현재 공부 중 ...
-- Go Lang, MediaMTX RTSP Server, Real Time Streaming Protocol
+- Real Time Streaming Protocol, Kafka
 
 <br>
 
-## 포스팅 from Blog & Github
+## 포스팅
 
 ## ![JAVA](https://img.shields.io/badge/-JAVA-orange)
-- [스프링 프로젝트를 CI/CD 파이프라인에 올리기](https://github.com/DongvinPark)
+- [자바 동시성 프로그래밍 예시 아카이브](https://github.com/DongvinPark/JAVA-Concurrency-Practice)
+- [자바 스트림 API 사용예시 아카이브](https://github.com/DongvinPark/Programming-Article-Archive/blob/main/java-stream.md)
 
 <br>
 
@@ -56,6 +63,8 @@
 ## ![Spring Framework](https://img.shields.io/badge/-Spring-brightgreen)
 - [만약 스프링 프레임워크가 없다면?!](https://coderslogic.net/?p=1075)
 - [스프링 프레임워크에서 비동기 멀티스레딩 연산으로 처리 성능 높이기](https://github.com/DongvinPark/Spring_Async_Test)
+- [스프링 프로젝트를 CI/CD 파이프라인에 올리기](https://github.com/DongvinPark)
+- [스프링부트에서 마스터 & 슬레이브 DB 셋팅하기](https://github.com/DongvinPark/master-slave-test)
 
 <br>
 
