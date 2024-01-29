@@ -29,17 +29,17 @@
 <br>
 
 ## 현업에서 참여한 프로젝트
-|제목|참여<br>인원|한 줄<br>요약|역할|PPT 문서|
-|---|---|---|---|---|
-|.|.|.|.|.|
+|제목|참여<br>인원|한 줄<br>요약|역할|PPT 문서|완료일시|
+|---|---|---|---|---|---|
+|.|.|.|.|.|.|
 
 <br>
 
 ## 개인/팀 프로젝트
-|제목|팀 구성|한 줄<br>요약|핵심 기능<br>OR<br>역할|깃허브|
-|---|---|---|---|---|
-|ArtBubble|Front 2<br>Back 4|인스타그램 클론코딩|로직 개발, 쿼리 성능최적화, 리팩토링|[링크](https://github.com/DevTraces/BackEnd)|
-|Social Todo Backend|개인<br>프로젝트|비동기 & 멀티스레딩 처리를 도입한 REST API|전체 개발, 배포, 테스트 코드 작성|[링크](https://github.com/DongvinPark/Social_Todo_BackEnd)|
+|제목|팀 구성|한 줄<br>요약|핵심 기능<br>OR<br>역할|깃허브|완료일시|
+|---|---|---|---|---|---|
+|ArtBubble|Front 2<br>Back 4|인스타그램 클론코딩|로직 개발, 쿼리 성능최적화, 리팩토링|[링크](https://github.com/DevTraces/BackEnd)|2023.Mar.|
+|Social Todo Backend|개인<br>프로젝트|비동기 & 멀티스레딩 처리를 도입한 REST API|전체 개발, 배포, 테스트 코드 작성|[링크](https://github.com/DongvinPark/Social_Todo_BackEnd)|2023.Jan|
 
 <br>
 
