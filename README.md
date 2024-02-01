@@ -25,6 +25,9 @@
   - ![](https://img.shields.io/badge/RDS-blue)
   - ![](https://img.shields.io/badge/Code_Pipeline-orange)
   - ![](https://img.shields.io/badge/Elastic_Container_Service-orange)
+- ![](https://img.shields.io/badge/OS-gray)
+  - ![](https://img.shields.io/badge/ubuntu-violet)
+  - ![](https://img.shields.io/badge/Amazon_Linux-orange)
 
 <br>
 
