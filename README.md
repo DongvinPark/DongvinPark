@@ -77,6 +77,10 @@
 - [@Transactional의 전파단계 설정하고 테스트하기](https://github.com/DongvinPark/jpa-propagation-test)
 - [JPQL로 N+1문제 해결하면서 동시에 페이징도 사용하기](https://github.com/DongvinPark/jpa-jpql-join-converter-NplusOne-solve)
 
+<br>
+
+## ![Message Queue](https://img.shields.io/badge/-Message%20Queue-blue)
+- [카프카 간단하게 셋팅 후 메시지 Pub/Sub 해보기](https://github.com/DongvinPark/kafka-test)
 <!--
 **DongvinPark/DongvinPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
