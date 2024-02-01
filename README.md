@@ -10,6 +10,7 @@
 - ![RFC-SPEC](https://img.shields.io/badge/RFC_Spec-gray)
   - ![HTTP](https://img.shields.io/badge/HTTP-yellow)
   - ![RTSP](https://img.shields.io/badge/RTSP-informational)
+  - ![RTP](https://img.shields.io/badge/RTP-informational)
 - ![JAVA](https://img.shields.io/badge/Language-gray)
   - ![JAVA](https://img.shields.io/badge/JAVA-orange)
   - ![Go Lang](https://img.shields.io/badge/GO-blue)
@@ -28,7 +29,7 @@
   - ![](https://img.shields.io/badge/Elastic_File_System-darkgreen)
 - ![](https://img.shields.io/badge/OS-gray)
   - ![](https://img.shields.io/badge/ubuntu-violet)
-  - ![](https://img.shields.io/badge/Amazon_Linux-black)
+  - ![](https://img.shields.io/badge/Amazon_Linux-orange)
 
 <br>
 
