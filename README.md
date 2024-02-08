@@ -82,6 +82,11 @@
 
 ## ![Message Queue](https://img.shields.io/badge/-Message%20Queue-blue)
 - [카프카 간단하게 셋팅 후 메시지 Pub/Sub 해보기](https://github.com/DongvinPark/kafka-test)
+
+<br>
+
+## ![](https://img.shields.io/badge/Distributed_Coordination_Service-darkgreen)
+- [Apache ZooKeepe로 리더 선출하여 가용성 높이기](https://github.com/DongvinPark/zookeeper-leader-selection-test)
 <!--
 **DongvinPark/DongvinPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
