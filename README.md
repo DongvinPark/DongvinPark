@@ -11,6 +11,7 @@
   - ![HTTP](https://img.shields.io/badge/HTTP-yellow)
   - ![RTSP](https://img.shields.io/badge/RTSP-informational)
   - ![RTP](https://img.shields.io/badge/RTP-informational)
+  - ![SNTP](https://img.shields.io/badge/SNTP-red)
 - ![JAVA](https://img.shields.io/badge/Language-gray)
   - ![JAVA](https://img.shields.io/badge/JAVA-orange)
   - ![Go Lang](https://img.shields.io/badge/GO-blue)
