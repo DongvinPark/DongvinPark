@@ -73,7 +73,6 @@
 ## ![Spring Framework](https://img.shields.io/badge/-Spring-brightgreen)
 - [스프링 프레임워크에서 비동기 멀티스레딩 연산으로 처리 성능 높이기](https://github.com/DongvinPark/Spring_Async_Test)
 - [스프링 프로젝트를 AWS CI/CD 파이프라인에서 blue/green 배포하기](https://github.com/DongvinPark/AWS-Code-Pipe-Line-Test)
-- [스프링부트에서 마스터 & 슬레이브 DB 셋팅하기](https://github.com/DongvinPark/master-slave-test)
 
 <br>
 
