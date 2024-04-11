@@ -40,7 +40,7 @@
 ## 현업 프로젝트
 |제목|회사명|참여<br>인원|한 줄<br>요약|역할|관련 문서|완료일시|
 |---|---|---|---|---|---|---|
-|VROADWAY App|(주)알파서클|Backend<br>2|API Server for VROADWAY App|-CI/CD PipeLine 구성&테스트<br>-7계층 DDoS 방어 WAF 구성|[문서1]()<br>[문서2]()<br>[문서3]()|2023.9.30|
+|VROADWAY App|(주)알파서클|Backend<br>2|API Server for VROADWAY App|-CI/CD PipeLine 구축<br>-7계층 DDoS 방어 WAF 구축|[문서1]()<br>[문서2]()<br>[문서3]()|2023.9.30|
 
 <br>
 
