@@ -11,17 +11,17 @@
   - ![HTTP](https://img.shields.io/badge/HTTP-yellow)
   - ![RTSP](https://img.shields.io/badge/RTSP-informational)
   - ![RTP](https://img.shields.io/badge/RTP-informational)
-  - ![SNTP](https://img.shields.io/badge/SNTP-red)
+  - ![SNTP](https://img.shields.io/badge/SNTP-red)<br><br/>
 - ![JAVA](https://img.shields.io/badge/Language-gray)
   - ![JAVA](https://img.shields.io/badge/JAVA-orange)
-  - ![Go Lang](https://img.shields.io/badge/GO-blue)
+  - ![Go Lang](https://img.shields.io/badge/GO-blue)<br><br/>
 - ![Framework / Library](https://img.shields.io/badge/Framework_&_Library-gray)
   - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen)
-  - ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)
+  - ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)<br><br/>
 - ![Database](https://img.shields.io/badge/Database-gray)
-  - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue)
+  - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue)<br><br/>
 - ![Dev/Ops](https://img.shields.io/badge/Dev_Ops-gray)
-  - ![Docker](https://img.shields.io/badge/docker-blue)
+  - ![Docker](https://img.shields.io/badge/docker-blue)<br><br/>
 - ![](https://img.shields.io/badge/AWS-gray)
   - ![](https://img.shields.io/badge/EC2-orange)
   - ![](https://img.shields.io/badge/RDS-blue)
@@ -30,7 +30,7 @@
   - ![](https://img.shields.io/badge/Elastic_Container_Service-orange)
   - ![](https://img.shields.io/badge/Elastic_File_System-darkgreen)
   - ![](https://img.shields.io/badge/Elastic_Block_Store-brown)
-  - ![](https://img.shields.io/badge/Athena-purple)
+  - ![](https://img.shields.io/badge/Athena-purple)<br><br/>
 - ![](https://img.shields.io/badge/OS-gray)
   - ![](https://img.shields.io/badge/ubuntu-violet)
   - ![](https://img.shields.io/badge/Amazon_Linux-orange)
