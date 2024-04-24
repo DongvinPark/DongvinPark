@@ -41,7 +41,7 @@
 |제목|회사명|참여<br>인원|한 줄<br>요약|역할|관련 문서|완료일시|
 |---|---|---|---|---|---|---|
 |Alpha Streaming|(주)알파서클|Backend<br>3|VR Contents Streaming System|파일 시스템 구축&테스트<br>로그 저장&검색 시스템 구축|[문서1]()<br>[문서2]()|현재 진행중|
-|VROADWAY App|(주)알파서클|Backend<br>2|API Server for VROADWAY App|-CI/CD PipeLine 구축<br>-7계층 DDoS 방어 WAF 구축|[CI/CD](https://github.com/DongvinPark/AWS-Code-Pipe-Line-Test)<br>[문서2]()<br>[문서3]()|2023.9.30|
+|VROADWAY App|(주)알파서클|Backend<br>2|API Server for VROADWAY App|-CI/CD PipeLine 구축<br>-7계층 DDoS 공격 방어 WAF 구축|[CI/CD](https://github.com/DongvinPark/AWS-Code-Pipe-Line-Test)<br>[문서2]()<br>[문서3]()|2023.9.30|
 
 <br>
 
