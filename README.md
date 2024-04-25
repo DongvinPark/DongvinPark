@@ -60,7 +60,7 @@
 
 ## 포스팅
 
-## ![JAVA](https://img.shields.io/badge/-JAVA-orange)
+## ![JAVA](https://img.shields.io/badge/-JAVA_&_JDK_&_JVM-orange)
 - [자바 동시성 프로그래밍 예시 아카이브](https://github.com/DongvinPark/JAVA-Concurrency-Practice)
 - [자바 스트림 API 사용예시 아카이브](https://github.com/DongvinPark/Programming-Article-Archive/blob/main/java-stream.md)
 
