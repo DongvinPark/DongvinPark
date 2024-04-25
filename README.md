@@ -40,7 +40,7 @@
 ## 현업 프로젝트(최신순)
 |제목|회사명|참여<br>인원|한 줄<br>요약|역할|관련 문서|완료일시(기간)|
 |---|---|---|---|---|---|---|
-|Alpha Streaming|(주)알파서클|Backend<br>3|VR Contents Streaming System|파일 시스템 구축&테스트,<br>로그 저장&검색 시스템 구축|[문서1]()<br>[문서2]()|2023.09 ~ 진행 중 |
+|Alpha Streaming|(주)알파서클|Frontend<br>3<br>Backend<br>3|VR Contents Streaming System|파일 시스템 구축&테스트,<br>로그 저장&검색 시스템 구축|[문서1]()<br>[문서2]()|2023.09 ~ 진행 중 |
 |VROADWAY App|(주)알파서클|Backend<br>2|API Server for VROADWAY App|CI/CD PipeLine 구축,<br>7계층 DDoS 공격 방어 WAF 구축|[CI/CD](https://github.com/DongvinPark/AWS-Code-Pipe-Line-Test)<br>[문서2]()<br>[문서3]()|2023.9.30<br>(4 개월)|
 
 <br>
@@ -48,7 +48,7 @@
 ## 개인/팀 프로젝트
 |제목|팀 구성|한 줄<br>요약|핵심 기능<br>OR<br>역할|깃허브|완료일시|
 |---|---|---|---|---|---|
-|ArtBubble|Front 2<br>Back 3|인스타그램 클론코딩|게시물 추천 로직 개발,<br>쿼리 성능최적화,<br>리팩토링|[링크](https://github.com/DevTraces/BackEnd)|2023.Mar.|
+|ArtBubble|Frontend<br>2<br>Backend<br>3|인스타그램 클론코딩|게시물 추천 로직 개발,<br>쿼리 성능최적화,<br>리팩토링|[링크](https://github.com/DevTraces/BackEnd)|2023.Mar.|
 |Social Todo Backend|개인|비동기 & 멀티스레딩 처리를 도입한 REST API|전체 개발 및 배포,<br>테스트 코드 작성|[링크](https://github.com/DongvinPark/Social_Todo_BackEnd)|2023.Jan|
 
 <br>
