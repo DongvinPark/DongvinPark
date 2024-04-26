@@ -41,7 +41,7 @@
 |제목|회사명|참여<br>인원|한 줄<br>요약|역할|관련 문서|완료일시(기간)|
 |---|---|---|---|---|---|---|
 |Alpha Streaming|(주)알파서클|Frontend<br>3<br>Backend<br>3|VR Contents Streaming System|파일 시스템 구축&테스트,<br>로그 저장&검색 시스템 구축,<br>모니터링 시스템 구축|- [file system](https://subdued-lentil-b20.notion.site/Load-Test-on-EBS-EFS-b2b5c26183064ba0a0818aafda91edc5)<br>- [문서2]()<br>- [문서3]()|2023.09<br> ~ 진행 중 |
-|VROADWAY App|(주)알파서클|Backend<br>2|API Server for VROADWAY App|CI/CD PipeLine 구축,<br>7계층 DDoS 공격 방어 WAF 구축|- [CI/CD](https://github.com/DongvinPark/AWS-Code-Pipe-Line-Test)<br>- [문서2]()|2023.9.30<br>(4 개월)|
+|VROADWAY App|(주)알파서클|Backend<br>2|API Server for VROADWAY App|CI/CD PipeLine 구축,<br>7계층 DDoS 공격 방어 WAF 구축|- [CI/CD](https://github.com/DongvinPark/AWS-Code-Pipe-Line-Test)<br>- [DDoS 방어](https://subdued-lentil-b20.notion.site/AWS-WAF-7-DDos-209c0527a11a40a08d738c390effe505)|2023.9.30<br>(4 개월)|
 
 <br>
 
