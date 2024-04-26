@@ -13,8 +13,7 @@
   - ![RTP](https://img.shields.io/badge/RTP-informational)
   - ![SNTP](https://img.shields.io/badge/SNTP-red)<br><br/>
 - ![JAVA](https://img.shields.io/badge/Language-gray)
-  - ![JAVA](https://img.shields.io/badge/JAVA-orange)
-  - ![Go Lang](https://img.shields.io/badge/GO-blue)<br><br/>
+  - ![JAVA](https://img.shields.io/badge/JAVA-orange)<br><br/>
 - ![Framework / Library](https://img.shields.io/badge/Framework_&_Library-gray)
   - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen)
   - ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)<br><br/>
