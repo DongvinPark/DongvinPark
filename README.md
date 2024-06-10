@@ -21,6 +21,8 @@
   - ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)<br><br/>
 - ![Database](https://img.shields.io/badge/Database-gray)
   - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue)<br><br/>
+- ![MultiMedia_Processing](https://img.shields.io/badge/Multimedia_Processing-gray)
+  - ![PostgresQL](https://img.shields.io/badge/FFMPEG-darkgreen)<br><br/>
 - ![Dev/Ops](https://img.shields.io/badge/Dev_Ops-gray)
   - ![Docker](https://img.shields.io/badge/docker-blue)<br><br/>
 - ![](https://img.shields.io/badge/AWS-gray)
