@@ -69,6 +69,11 @@
 
 <br>
 
+## ![](https://img.shields.io/badge/ExoPlayer-8A2BE2)
+- [ExoPlayer로 구현한 VR 영상 플레이어에서 Seek 후 Switching 시 발생하는 Null 포인터 예외 디버깅](https://github.com/DongvinPark/Debug-Archive/blob/main/Seek-Switching-NPE.md)
+
+<br>
+
 ## ![](https://img.shields.io/badge/-Data%20Structure%20%26%20Algorithm-lightgrey)
 - [파이썬 알고리즘 인터뷰 도서 88개 문제 전부 JAVA로 풀어보기](https://github.com/DongvinPark/Python-Algorithm-Interview-solved-by-JAVA)
 
