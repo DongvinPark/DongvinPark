@@ -57,7 +57,7 @@
 <br>
 
 ## 현재 공부 중 ...
-- Real Time Streaming Protocol, Kafka
+- Real Time Streaming Protocol, ExoPlayer, Android
 
 <br>
 
