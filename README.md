@@ -64,6 +64,11 @@
 
 ## 포스팅
 
+## ![](https://img.shields.io/badge/-취업,_이직,_커리어-blue)
+- [첫 번째 취업을 하기까지 - 제로베이스 백엔드 스쿨 5기]()
+
+<br>
+
 ## ![JAVA](https://img.shields.io/badge/-JAVA,_JDK,_JVM-orange)
 - [자바 동시성 프로그래밍 예시 아카이브](https://github.com/DongvinPark/JAVA-Concurrency-Practice)
 - [자바 스트림 API 사용예시 아카이브](https://github.com/DongvinPark/Programming-Article-Archive/blob/main/java-stream.md)
