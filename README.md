@@ -66,7 +66,7 @@
 ## 포스팅
 
 ## ![](https://img.shields.io/badge/-취업,_이직,_커리어-blue)
-- [첫 번째 취업을 하기까지 - 제로베이스 백엔드 스쿨 5기]()
+- [첫 번째 취업을 하기까지 - 제로베이스 백엔드 스쿨 5기 후기](https://subdued-lentil-b20.notion.site/308e25ac26564e57ba8379bc1a7fa1a4)
 
 <br>
 
