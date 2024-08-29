@@ -9,16 +9,15 @@
 
 ## 기술 스택
 - ![RFC-SPEC](https://img.shields.io/badge/RFC_Spec-gray)
-  - ![HTTP](https://img.shields.io/badge/HTTP-yellow)
-  - ![RTSP](https://img.shields.io/badge/RTSP-informational)
-  - ![RTP](https://img.shields.io/badge/RTP-informational)
+  - ![HTTP](https://img.shields.io/badge/HTTP-yellow), ![RTSP](https://img.shields.io/badge/RTSP-informational), ![RTP](https://img.shields.io/badge/RTP-informational)<br><br/>
 - ![LANGUAGE](https://img.shields.io/badge/Language-gray)
   - ![JAVA](https://img.shields.io/badge/JAVA-orange)<br><br/>
+- ![Streaming Protocol](https://img.shields.io/badge/Streaming_Protocol-gray)
+  - ![RTSP](https://img.shields.io/badge/RTSP-informational), ![RTP](https://img.shields.io/badge/RTP-informational)<br><br/>
 - ![MEDIA_PLAYER](https://img.shields.io/badge/Media_Player-gray)
   - ![EXO_PLAYER](https://img.shields.io/badge/Exo_Player-blueviolet)<br><br/>
 - ![Framework / Library](https://img.shields.io/badge/Framework_&_Library-gray)
-  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen)
-  - ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)<br><br/>
+  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen), ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)<br><br/>
 - ![Database](https://img.shields.io/badge/Database-gray)
   - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue)<br><br/>
 - ![MultiMedia_Processing](https://img.shields.io/badge/Multimedia_Processing-gray)
@@ -29,14 +28,11 @@
   - ![](https://img.shields.io/badge/EC2-orange)
   - ![](https://img.shields.io/badge/RDS-blue)
   - ![](https://img.shields.io/badge/Web_Application_Firewall-orange)
-  - ![](https://img.shields.io/badge/Code_Pipeline-orange)
-  - ![](https://img.shields.io/badge/Elastic_Container_Service-orange)
-  - ![](https://img.shields.io/badge/Elastic_File_System-darkgreen)
-  - ![](https://img.shields.io/badge/Elastic_Block_Store-brown)
+  - ![](https://img.shields.io/badge/Code_Pipeline-orange), ![](https://img.shields.io/badge/Elastic_Container_Service-orange)
+  - ![](https://img.shields.io/badge/Elastic_File_System-darkgreen), ![](https://img.shields.io/badge/Elastic_Block_Store-brown)
   - ![](https://img.shields.io/badge/Athena-purple)<br><br/>
 - ![](https://img.shields.io/badge/OS-gray)
-  - ![](https://img.shields.io/badge/ubuntu-violet)
-  - ![](https://img.shields.io/badge/Amazon_Linux-orange)
+  - ![](https://img.shields.io/badge/ubuntu-violet), ![](https://img.shields.io/badge/Amazon_Linux-orange)
 
 <br>
 
