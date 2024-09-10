@@ -54,7 +54,7 @@
 <br>
 
 ## 현재 공부 중 ...
-- Real Time Streaming Protocol, ExoPlayer, Android
+- Real Time Streaming Protocol, ExoPlayer, C/C++
 
 <br>
 
