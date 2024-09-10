@@ -39,7 +39,7 @@
 ## 현업 프로젝트(최신순)
 |제목|회사명|참여<br>인원|한 줄<br>요약|역할|관련<br>문서|완료일시<br>(기간)|
 |---|---|---|---|---|---|---|
-|AlphaView 3.0|(주)알파서클|Frontend<br>3<br>Backend<br>3|High Resolution VR Contents Streaming System|RTSP 스트리밍 구현<br>(Server & Client)|[RTSP](https://github.com/DongvinPark/Debug-Archive/blob/main/AlphaView3-Impl.md)|2024.08<br> ~ 진행 중 |
+|AlphaView 3.0|(주)알파서클|Frontend<br>3<br>Backend<br>3|High Resolution VR Contents Streaming System|RTSP 스트리밍 play, pause, seek 구현<br>(Server & Client)|[RTSP](https://github.com/DongvinPark/Debug-Archive/blob/main/AlphaView3-Impl.md)|2024.08<br> ~ 진행 중 |
 |AlphaView 2.0|(주)알파서클|Frontend<br>3<br>Backend<br>3|High Resolution VR Contents Streaming System|파일 시스템 구축&테스트,<br>pause switching 구현|[File](https://subdued-lentil-b20.notion.site/Load-Test-on-EBS-EFS-b2b5c26183064ba0a0818aafda91edc5)<br>[스위칭](https://github.com/DongvinPark/Debug-Archive/blob/main/Pause-Switching-Impl.md)|2024.08<br>(11 개월) |
 |VROADWAY App|(주)알파서클|Backend<br>2|API Server for VROADWAY App|CI/CD PipeLine 구축,<br>7계층 DDoS 공격 방어 WAF 구축|[CI/CD](https://github.com/DongvinPark/AWS-Code-Pipe-Line-Test)<br>[DDoS](https://subdued-lentil-b20.notion.site/AWS-WAF-7-DDos-209c0527a11a40a08d738c390effe505)|2023.9.30<br>(4 개월)|
 
