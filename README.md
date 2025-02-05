@@ -17,11 +17,13 @@
 - ![MEDIA_PLAYER](https://img.shields.io/badge/Media_Player-gray)
   - ![EXO_PLAYER](https://img.shields.io/badge/Exo_Player-blueviolet)<br><br/>
 - ![Framework / Library](https://img.shields.io/badge/Framework_&_Library-gray)
-  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen), ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)<br><br/>
+  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen), ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)
+  - ![Boost.Asio](https://img.shields.io/badge/Boost.Asio-informational)
 - ![Database](https://img.shields.io/badge/Database-gray)
   - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue)<br><br/>
 - ![MultiMedia_Processing](https://img.shields.io/badge/Multimedia_Processing-gray)
-  - ![PostgresQL](https://img.shields.io/badge/FFMPEG-darkgreen)<br><br/>
+  - ![FFMPEG](https://img.shields.io/badge/FFMPEG-darkgreen)
+  - ![HM](https://img.shields.io/badge/HM_:_hevc_video_frame_analyser-darkgreen)<br><br/>
 - ![Dev/Ops](https://img.shields.io/badge/Dev_Ops-gray)
   - ![Docker](https://img.shields.io/badge/docker-blue)<br><br/>
 - ![](https://img.shields.io/badge/AWS-gray)
