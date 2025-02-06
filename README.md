@@ -23,7 +23,7 @@
   - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue)<br><br/>
 - ![MultiMedia_Processing](https://img.shields.io/badge/Multimedia_Processing-gray)
   - ![FFMPEG](https://img.shields.io/badge/FFMPEG-darkgreen)
-  - ![HM](https://img.shields.io/badge/HM_:_hevc_video_frame_analyser-darkgreen)<br><br/>
+  - ![HM](https://img.shields.io/badge/HM_jvet_:_hevc_video_frame_analyser-darkgreen)<br><br/>
 - ![Dev/Ops](https://img.shields.io/badge/Dev_Ops-gray)
   - ![Docker](https://img.shields.io/badge/docker-blue)<br><br/>
 - ![](https://img.shields.io/badge/AWS-gray)
