@@ -18,7 +18,7 @@
   - ![EXO_PLAYER](https://img.shields.io/badge/Exo_Player-blueviolet)<br><br/>
 - ![Framework / Library](https://img.shields.io/badge/Framework_&_Library-gray)
   - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen), ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)
-  - ![Boost.Asio](https://img.shields.io/badge/Boost.Asio-informational)
+  - ![Boost.Asio](https://img.shields.io/badge/Boost.Asio-informational)<br><br/>
 - ![Database](https://img.shields.io/badge/Database-gray)
   - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue)<br><br/>
 - ![MultiMedia_Processing](https://img.shields.io/badge/Multimedia_Processing-gray)
@@ -55,7 +55,7 @@
 <br>
 
 ## 현재 공부 중 ...
-- Real Time Streaming Protocol, ExoPlayer, C/C++
+- Real Time Streaming Protocol, ExoPlayer, C++, Boost.Asio library, Computer Architecture, Linux Socket
 
 <br>
 
@@ -72,8 +72,9 @@
 
 <br>
 
-## ![](https://img.shields.io/badge/ExoPlayer-8A2BE2)
+## ![](https://img.shields.io/badge/Media_Processing-8A2BE2)
 - [ExoPlayer로 구현한 VR 영상 플레이어에서 Seek 후 Switching 시 발생하는 Null 포인터 예외 디버깅](https://github.com/DongvinPark/Debug-Archive/blob/main/Seek-Switching-NPE.md)
+- [h265 비디오 내 프레임들 간의 참조 관계 분석하기](https://github.com/DongvinPark/HM-jvet-how-to-use)
 
 <br>
 
