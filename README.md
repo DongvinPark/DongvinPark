@@ -67,6 +67,12 @@
 
 <br>
 
+## ![](https://img.shields.io/badge/-Computer_Science-blue)
+- [H/W 수준에서 파악해본 동시실행]()
+- [요청이 몰리면 서버가 죽는 이유]()
+
+<br>
+
 ## ![JAVA](https://img.shields.io/badge/-JAVA,_JDK,_JVM-orange)
 - [자바 동시성 프로그래밍 예시 아카이브](https://github.com/DongvinPark/JAVA-Concurrency-Practice)
 - [자바 스트림 API 사용예시 아카이브](https://github.com/DongvinPark/Programming-Article-Archive/blob/main/java-stream.md)
