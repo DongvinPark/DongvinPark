@@ -69,7 +69,8 @@
 
 ## ![](https://img.shields.io/badge/-Computer_Science-blue)
 - [H/W 수준에서 파악해본 동시실행]()
-- [요청이 몰리면 서버가 죽는 이유]()
+- [H/W 수준에서 파악해본 Async & Non-blocking I/O]()
+- [요청이 몰리면 서버가 죽거나 느려지는 이유]()
 
 <br>
 
