@@ -92,7 +92,7 @@
 <br>
 
 ## ![Spring Framework](https://img.shields.io/badge/-Spring-brightgreen)
-- [스프링 프레임워크에서 비동기 멀티스레딩 연산으로 응답성 높이기](https://github.com/DongvinPark/Spring_Async_Test)
+- [스프링 프레임워크에서 비동기 멀티스레딩 연산으로 성능 높이기](https://github.com/DongvinPark/Spring_Async_Test)
 - [스프링 프로젝트를 AWS CI/CD 파이프라인에서 blue/green 배포하기](https://github.com/DongvinPark/AWS-Code-Pipe-Line-Test)
 
 <br>
