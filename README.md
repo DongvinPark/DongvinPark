@@ -56,7 +56,7 @@
 <br>
 
 ## 현재 공부 중 ...
-- Real Time Streaming Protocol, ExoPlayer, C++, Boost.Asio library, Computer Architecture, Linux Socket
+- Generative AI models for image & video, Python, C++, Computer Architecture, Linux Socket
 
 <br>
 
@@ -68,7 +68,6 @@
 <br>
 
 ## ![](https://img.shields.io/badge/-Computer_Science-blue)
-- [H/W 수준에서 파악해본 동시실행]()
 - [H/W 수준에서 파악해본 Async & Non-blocking I/O]()
 - [요청이 몰리면 서버가 죽거나 느려지는 이유]()
 
