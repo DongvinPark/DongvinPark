@@ -68,8 +68,8 @@
 <br>
 
 ## ![](https://img.shields.io/badge/-Computer_Science-blue)
-- [H/W 수준에서 파악해본 Async & Non-blocking I/O]()
-- [요청이 몰리면 서버가 죽거나 느려지는 이유]()
+- [H/W 수준에서 파악해본 Async & Non-blocking I/O](https://github.com/DongvinPark/Debug-Archive/blob/main/Async-Nonblocking-IO.md)
+- [요청이 몰리면 서버가 죽거나 느려지는 이유](https://github.com/DongvinPark/Debug-Archive/blob/main/Why-Server-Dies.md)
 
 <br>
 
