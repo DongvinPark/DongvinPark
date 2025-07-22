@@ -21,8 +21,7 @@
   - ![Boost.Asio](https://img.shields.io/badge/Boost.Asio-informational)<br><br/>
 - ![AI env](https://img.shields.io/badge/-AI_env-gray)
   - ![conda](https://img.shields.io/badge/conda-%2344A833)
-  - ![CUDA](https://img.shields.io/badge/CUDA-%2376B900), ![cuDNN](https://img.shields.io/badge/cuDNN-%20%20%2376B900)
-  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00)<br><br/>
+  - ![CUDA](https://img.shields.io/badge/CUDA_toolkit-%2376B900), ![cuDNN](https://img.shields.io/badge/cuDNN-%20%20%2376B900)<br><br/>
 - ![Database](https://img.shields.io/badge/Database-gray)
   - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue)<br><br/>
 - ![MultiMedia_Processing](https://img.shields.io/badge/Multimedia_Processing-gray)
