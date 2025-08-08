@@ -19,9 +19,10 @@
 - ![Framework / Library](https://img.shields.io/badge/Framework_&_Library-gray)
   - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen), ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)
   - ![Boost.Asio](https://img.shields.io/badge/Boost.Asio-informational)<br><br/>
-- ![AI env](https://img.shields.io/badge/-AI_env-gray)
-  - ![conda](https://img.shields.io/badge/conda-%2344A833)
-  - ![CUDA](https://img.shields.io/badge/CUDA_toolkit-%2376B900), ![cuDNN](https://img.shields.io/badge/cuDNN-%20%20%2376B900)<br><br/>
+- ![AI env](https://img.shields.io/badge/-AI-gray)
+  - ![Desktop Setup](https://img.shields.io/badge/Desktop_Setup-%2376B900)
+  - ![ComfyUI](https://img.shields.io/badge/ComfyUI-blue)
+  - ![conda](https://img.shields.io/badge/conda-%2344A833)<br><br/>
 - ![Database](https://img.shields.io/badge/Database-gray)
   - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue)<br><br/>
 - ![MultiMedia_Processing](https://img.shields.io/badge/Multimedia_Processing-gray)
