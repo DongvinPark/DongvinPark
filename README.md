@@ -15,7 +15,7 @@
 - ![Streaming Protocol](https://img.shields.io/badge/Streaming_Protocol-gray)
   - ![RTSP](https://img.shields.io/badge/RTSP-informational), ![RTP](https://img.shields.io/badge/RTP-informational)<br><br/>
 - ![MEDIA_PLAYER](https://img.shields.io/badge/Media_Player-gray)
-  - ![EXO_PLAYER](https://img.shields.io/badge/Exo_Player-blueviolet)<br><br/>
+  - ![EXO_PLAYER](https://img.shields.io/badge/Google_ExoPlayer-blueviolet)<br><br/>
 - ![Framework / Library](https://img.shields.io/badge/Framework_&_Library-gray)
   - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen), ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)
   - ![Boost.Asio](https://img.shields.io/badge/Boost.Asio-informational)<br><br/>
