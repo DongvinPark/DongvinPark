@@ -7,6 +7,11 @@
 
 <br>
 
+## 경력
+- 주식회사 알파서클(2023.05 ~) : 백엔드 및 VR 플레이어 개발
+
+<br>
+
 ## 기술 스택
 - ![RFC-SPEC](https://img.shields.io/badge/RFC_Spec-gray)
   - ![HTTP](https://img.shields.io/badge/HTTP-yellow), ![RTSP](https://img.shields.io/badge/RTSP-informational), ![RTP](https://img.shields.io/badge/RTP-informational)<br><br/>
