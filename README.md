@@ -29,7 +29,8 @@
 - ![AI env](https://img.shields.io/badge/-AI-gray)
   - ![Desktop Setup](https://img.shields.io/badge/Desktop_Setup-%2376B900), ![ComfyUI](https://img.shields.io/badge/ComfyUI-blue), ![conda](https://img.shields.io/badge/conda-%2344A833)<br><br/>
 - ![Database](https://img.shields.io/badge/Database-gray)
-  - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue), ![MySQL](https://img.shields.io/badge/MySQL-blue)<br><br/>
+  - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue), ![MySQL](https://img.shields.io/badge/MySQL-blue)
+  - ![Redis](https://img.shields.io/badge/Redis-red)<br><br/>
 - ![MultiMedia_Processing](https://img.shields.io/badge/Multimedia_Processing-gray)
   - ![FFMPEG](https://img.shields.io/badge/FFMPEG-darkgreen), ![HM](https://img.shields.io/badge/HM_jvet_:_hevc_video_frame_analyser-darkgreen)<br><br/>
 - ![Dev/Ops](https://img.shields.io/badge/Dev_Ops-gray)
