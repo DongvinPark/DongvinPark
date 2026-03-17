@@ -54,9 +54,10 @@
 
 <br>
 
-## 개인/팀 프로젝트
+## 개인/팀 프로젝트(최신순)
 |제목|팀 구성|한 줄<br>요약|핵심 기능<br>OR<br>역할|깃허브|완료일시<br>(기간)|
 |---|---|---|---|---|---|
+|Macro Economy Board|개인|거시경제 지표를 이벤트와 함께 확인할 수 있는 정적 웹앱|전체 개발 및 배포,<br>리팩토링|[링크](https://github.com/DongvinPark/MacroEconBoard)|2026.April.<br>(7 개월)|
 |Rtsp Server in C++|개인|RTSP 스트리밍 서버|전체 개발 및 배포,<br>성능 테스트,<br>리팩토링|[링크](https://github.com/DongvinPark/RtspServerInCpp)|2025.April.<br>(3 개월)|
 |ArtBubble|Frontend<br>2<br>Backend<br>3|인스타그램 클론코딩|게시물 추천 로직 개발,<br>쿼리 성능최적화,<br>리팩토링|[링크](https://github.com/DevTraces/BackEnd)|2023.Mar.<br>(2 개월)|
 |Social Todo Backend|개인|비동기 & 멀티스레딩 처리를 도입한 REST API|전체 개발 및 배포,<br>테스트 코드 작성|[링크](https://github.com/DongvinPark/Social_Todo_BackEnd)|2023.Jan<br>(2 개월)|
