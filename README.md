@@ -111,7 +111,7 @@
 ## ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)
 - [@Transactional의 전파단계 설정하고 테스트하기](https://github.com/DongvinPark/jpa-propagation-test)
 - [JPQL로 N+1문제 해결하면서 동시에 페이징도 사용하기](https://github.com/DongvinPark/jpa-jpql-join-converter-NplusOne-solve)
-- [SpringBoot + STOMP web socket 성능 테스트 - 구조적 한계](https://subdued-lentil-b20.notion.site/SpringBoot-STOMP-32f3aeddf7f480f68c6bf0ba2402394d)
+- [SpringBoot + STOMP web socket 성능 테스트 - 구조적 한계 파악하기](https://subdued-lentil-b20.notion.site/SpringBoot-STOMP-32f3aeddf7f480f68c6bf0ba2402394d)
 
 <br>
 
