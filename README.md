@@ -51,6 +51,7 @@
 ## 현업 프로젝트(최신순)
 |제목|회사명|참여<br>인원|한 줄<br>요약|역할|관련<br>문서|완료일시<br>(기간)|매출 규모(출처)|
 |---|---|---|---|---|---|---|---|
+|EverChat 재개발|(주)에버라인<br>(주)알파서클|Frontend<br>2<br>Backend<br>1|팬덤 채팅 서비스 앱|채팅 서비스 백엔드 개발|[성능테스트](https://subdued-lentil-b20.notion.site/SpringBoot-STOMP-32f3aeddf7f480f68c6bf0ba2402394d)|2026.07<br>(4 개월)|약 4억 원|
 |AlphaView 3.0|(주)알파서클|Frontend<br>3<br>Backend<br>3|High Resolution VR Contents Streaming System|RTSP 스트리밍 시스템 구현<br>(Server & Player),<br>bitrate 저감 기술 구현,<br>자막 렌더링 구현|[RTSP](https://github.com/DongvinPark/Debug-Archive/blob/main/AlphaView3-Impl.md)<br>[bitrate](https://github.com/DongvinPark/Debug-Archive/blob/main/AlphaView3-bitrate.md)|2025.02<br>(7 개월) |2억 원<br>(정부과제)|
 |AlphaView 2.0|(주)알파서클|Frontend<br>3<br>Backend<br>3|High Resolution VR Contents Streaming System|파일 시스템 구축&테스트,<br>pause switching 구현|[File](https://subdued-lentil-b20.notion.site/Load-Test-on-EBS-EFS-b2b5c26183064ba0a0818aafda91edc5)<br>[스위칭](https://github.com/DongvinPark/Debug-Archive/blob/main/Pause-Switching-Impl.md)|2024.08<br>(11 개월) |-<br>(연구 개발)|
 |VROADWAY App|(주)알파서클|Backend<br>2|API Server for VROADWAY App|CI/CD PipeLine 구축,<br>7계층 DDoS 공격 방어 WAF 구축|[CI/CD](https://github.com/DongvinPark/AWS-Code-Pipe-Line-Test)<br>[DDoS](https://subdued-lentil-b20.notion.site/AWS-WAF-7-DDos-209c0527a11a40a08d738c390effe505)|2023.9.30<br>(4 개월)|4천만 원<br>(자사 서비스)|
@@ -60,7 +61,7 @@
 ## 개인/팀 프로젝트(최신순)
 |제목|팀 구성|한 줄<br>요약|핵심 기능<br>OR<br>역할|깃허브|완료일시<br>(기간)|
 |---|---|---|---|---|---|
-|Macro Economy Board|개인|거시경제 지표를 이벤트와 함께 확인할 수 있는 정적 웹앱|전체 개발 및 배포,<br>리팩토링|[링크](https://github.com/DongvinPark/MacroEconBoard)|2026.April.<br>(7 개월)|
+|Macro Economy Board|개인|거시경제 지표를 이벤트와 함께 확인할 수 있는 정적 [웹앱](https://d504z0jut0258.cloudfront.net/)|전체 개발 및 배포,<br>리팩토링|[링크](https://github.com/DongvinPark/MacroEconBoard)|2026.April.<br>(7 개월)|
 |Rtsp Server in C++|개인|RTSP 스트리밍 서버|전체 개발 및 배포,<br>성능 테스트,<br>리팩토링|[링크](https://github.com/DongvinPark/RtspServerInCpp)|2025.April.<br>(3 개월)|
 |ArtBubble|Frontend<br>2<br>Backend<br>3|인스타그램 클론코딩|게시물 추천 로직 개발,<br>쿼리 성능최적화,<br>리팩토링|[링크](https://github.com/DevTraces/BackEnd)|2023.Mar.<br>(2 개월)|
 |Social Todo Backend|개인|비동기 & 멀티스레딩 처리를 도입한 REST API|전체 개발 및 배포,<br>테스트 코드 작성|[링크](https://github.com/DongvinPark/Social_Todo_BackEnd)|2023.Jan<br>(2 개월)|
