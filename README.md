@@ -2,7 +2,7 @@
 
 <br>
 
-## (주)알파서클에 재직 중인 백엔드 및 VR 플레이어 개발자 박동빈입니다 :)
+## 서버(API, Streaming, Chat) 및 VR 플레이어 개발자 박동빈입니다 :)
 ## dongvin99@naver.com
 
 <br>
