@@ -16,9 +16,7 @@
 - ![RFC-SPEC](https://img.shields.io/badge/RFC_Spec-gray)
   - ![HTTP](https://img.shields.io/badge/HTTP-yellow), ![RTSP](https://img.shields.io/badge/RTSP-informational), ![RTP](https://img.shields.io/badge/RTP-informational), ![STOMP](https://img.shields.io/badge/STOMP-red)<br><br/>
 - ![LANGUAGE](https://img.shields.io/badge/Language-gray)
-  - main : ![JAVA](https://img.shields.io/badge/JAVA-orange)
-  - sub : ![C++](https://img.shields.io/badge/C++-informational)
-  - toy pjt : ![TypeScript](https://img.shields.io/badge/TypeScript-informational)<br><br/>
+  - main : ![JAVA](https://img.shields.io/badge/JAVA-orange) / sub : ![C++](https://img.shields.io/badge/C++-informational) / toy pjt : ![TypeScript](https://img.shields.io/badge/TypeScript-informational)<br><br/>
 - ![Streaming Protocol](https://img.shields.io/badge/Streaming_Protocol-gray)
   - ![RTSP](https://img.shields.io/badge/RTSP-informational), ![RTP](https://img.shields.io/badge/RTP-informational)<br><br/>
 - ![MEDIA_PLAYER](https://img.shields.io/badge/Media_Player-gray)
