@@ -2,7 +2,7 @@
 
 <br>
 
-## 서버(API, Streaming, Chat) 및 VR 플레이어 개발자 박동빈입니다 :)
+## 백엔드(API, Streaming, Chat) 및 VR 플레이어 개발자 박동빈입니다 :)
 ## dongvin99@naver.com
 
 <br>
