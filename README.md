@@ -25,7 +25,7 @@
   - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen), ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)
   - ![Boost.Asio](https://img.shields.io/badge/Boost.Asio-informational)<br><br/>
 - ![AI env](https://img.shields.io/badge/-AI-gray)
-  - ![Desktop Setup](https://img.shields.io/badge/Desktop_Setup-%2376B900), ![ComfyUI](https://img.shields.io/badge/ComfyUI-blue), ![conda](https://img.shields.io/badge/conda-%2344A833)<br><br/>
+  - ![Desktop Setup](https://img.shields.io/badge/Desktop_Setup_:_CUDA_&_CuDNN-%2376B900), ![ComfyUI](https://img.shields.io/badge/ComfyUI-blue), ![conda](https://img.shields.io/badge/conda-%2344A833)<br><br/>
 - ![Database](https://img.shields.io/badge/Database-gray)
   - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue), ![MySQL](https://img.shields.io/badge/MySQL-blue)
   - ![Redis](https://img.shields.io/badge/Redis-red)<br><br/>
