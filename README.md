@@ -59,11 +59,6 @@
 
 <br>
 
-## 현재 공부 중 ...
-- Generative AI models for image & video, Python, C++, Computer Architecture, Linux Socket
-
-<br>
-
 ## 포스팅
 
 ## ![](https://img.shields.io/badge/-취업,_이직,_커리어-blue)
