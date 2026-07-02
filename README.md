@@ -21,6 +21,8 @@
   - ![EXO_PLAYER](https://img.shields.io/badge/Google_ExoPlayer-blueviolet)<br><br/>
 - ![Framework / Library](https://img.shields.io/badge/Framework_&_Library-gray)
   - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen), ![QueryDSL](https://img.shields.io/badge/QueryDSL-brightgreen), ![Boost.Asio](https://img.shields.io/badge/Boost.Asio-informational)<br><br/>
+- ![Payments](https://img.shields.io/badge/Payments-gray)
+  - ![Toss Payments](https://img.shields.io/badge/Toss_Payments-blue), ![RTDN/ASSN](https://img.shields.io/badge/RTDN_/_ASSN-blue)<br><br/>
 - ![AI env](https://img.shields.io/badge/-AI-gray)
   - ![Desktop Setup](https://img.shields.io/badge/Desktop_Setup_:_CUDA_&_CuDNN-%2376B900), ![ComfyUI](https://img.shields.io/badge/ComfyUI-blue), ![conda](https://img.shields.io/badge/conda-%2344A833)<br><br/>
 - ![Database](https://img.shields.io/badge/Database-gray)
