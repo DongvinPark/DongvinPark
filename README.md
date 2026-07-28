@@ -36,7 +36,8 @@
   - ![](https://img.shields.io/badge/Web_Application_Firewall-orange)
   - ![](https://img.shields.io/badge/Elastic_Load_Balancer-orange)
   - ![](https://img.shields.io/badge/Code_Pipeline-orange), ![](https://img.shields.io/badge/Elastic_Container_Service-orange)
-  - ![](https://img.shields.io/badge/Elastic_File_System-darkgreen), ![](https://img.shields.io/badge/Elastic_Block_Store-brown)<br><br/>
+  - ![](https://img.shields.io/badge/Elastic_File_System-darkgreen), ![](https://img.shields.io/badge/Elastic_Block_Store-brown)
+  - ![](https://img.shields.io/badge/Secrets_Manager-red)<br><br/>
 - ![](https://img.shields.io/badge/Operating_System-gray)
   - ![](https://img.shields.io/badge/ubuntu-violet), ![](https://img.shields.io/badge/Amazon_Linux-orange)<br><br/>
 
