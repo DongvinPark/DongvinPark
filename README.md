@@ -35,7 +35,7 @@
   - ![](https://img.shields.io/badge/EC2-orange), ![](https://img.shields.io/badge/RDS-blue)
   - ![](https://img.shields.io/badge/Web_Application_Firewall-orange)
   - ![](https://img.shields.io/badge/Elastic_Load_Balancer-orange)
-  - ![](https://img.shields.io/badge/Code_Pipeline-orange), ![](https://img.shields.io/badge/Elastic_Container_Service-orange)
+  - ![](https://img.shields.io/badge/Code_Pipeline-blue), ![](https://img.shields.io/badge/Elastic_Container_Service-orange)
   - ![](https://img.shields.io/badge/Elastic_File_System-darkgreen), ![](https://img.shields.io/badge/Elastic_Block_Store-brown)
   - ![](https://img.shields.io/badge/Secrets_Manager-red)
   - ![](https://img.shields.io/badge/Certificate_Manager-red), ![](https://img.shields.io/badge/Route_53-purple)<br><br/>
