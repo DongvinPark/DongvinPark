@@ -17,20 +17,10 @@
   - ![HTTP](https://img.shields.io/badge/HTTP-yellow), ![RTSP](https://img.shields.io/badge/RTSP-informational), ![RTP](https://img.shields.io/badge/RTP-informational), ![STOMP](https://img.shields.io/badge/STOMP-red)<br><br/>
 - ![LANGUAGE](https://img.shields.io/badge/Language-gray)
   - main : ![JAVA](https://img.shields.io/badge/JAVA-orange) / sub : ![C++](https://img.shields.io/badge/C++-informational) / toy pjt : ![TypeScript](https://img.shields.io/badge/TypeScript-informational)<br><br/>
-- ![MEDIA_PLAYER](https://img.shields.io/badge/Media_Player-gray)
-  - ![EXO_PLAYER](https://img.shields.io/badge/Google_ExoPlayer-blueviolet)<br><br/>
 - ![Framework / Library](https://img.shields.io/badge/Framework_&_Library-gray)
   - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen), ![QueryDSL](https://img.shields.io/badge/QueryDSL-brightgreen), ![Boost.Asio](https://img.shields.io/badge/Boost.Asio-informational)<br><br/>
-- ![Payments](https://img.shields.io/badge/Payments-gray)
-  - ![Toss Payments](https://img.shields.io/badge/Toss_Payments_Billing_API-blue), ![RTDN/ASSN](https://img.shields.io/badge/RTDN_/_ASSN-blue)<br><br/>
-- ![AI env](https://img.shields.io/badge/-AI-gray)
-  - ![Desktop Setup](https://img.shields.io/badge/Desktop_Setup_:_CUDA_&_CuDNN-%2376B900), ![ComfyUI](https://img.shields.io/badge/ComfyUI-blue), ![conda](https://img.shields.io/badge/conda-%2344A833)<br><br/>
 - ![Database](https://img.shields.io/badge/Database-gray)
   - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue), ![MySQL](https://img.shields.io/badge/MySQL-blue), ![Redis](https://img.shields.io/badge/Redis-red)<br><br/>
-- ![MultiMedia_Processing](https://img.shields.io/badge/Multimedia_Processing-gray)
-  - ![FFMPEG](https://img.shields.io/badge/FFMPEG-darkgreen), ![HM](https://img.shields.io/badge/HM_jvet_:_hevc_video_frame_analyser-darkgreen)<br><br/>
-- ![Dev/Ops](https://img.shields.io/badge/Dev_Ops-gray)
-  - ![Docker](https://img.shields.io/badge/docker-blue)<br><br/>
 - ![](https://img.shields.io/badge/AWS-gray)
   - ![](https://img.shields.io/badge/EC2-orange), ![](https://img.shields.io/badge/RDS-blue)
   - ![](https://img.shields.io/badge/Web_Application_Firewall-orange)
@@ -39,6 +29,16 @@
   - ![](https://img.shields.io/badge/Elastic_File_System-darkgreen), ![](https://img.shields.io/badge/Elastic_Block_Store-brown)
   - ![](https://img.shields.io/badge/Secrets_Manager-red)
   - ![](https://img.shields.io/badge/Certificate_Manager-red), ![](https://img.shields.io/badge/Route_53-purple)<br><br/>
+- ![Dev/Ops](https://img.shields.io/badge/Dev_Ops-gray)
+  - ![Docker](https://img.shields.io/badge/docker-blue)<br><br/>
+- ![Payments](https://img.shields.io/badge/Payments-gray)
+  - ![Toss Payments](https://img.shields.io/badge/Toss_Payments_Billing_API-blue), ![RTDN/ASSN](https://img.shields.io/badge/RTDN_/_ASSN-blue)<br><br/>
+- ![MEDIA_PLAYER](https://img.shields.io/badge/Media_Player-gray)
+  - ![EXO_PLAYER](https://img.shields.io/badge/Google_ExoPlayer-blueviolet)<br><br/>
+- ![MultiMedia_Processing](https://img.shields.io/badge/Multimedia_Processing-gray)
+  - ![FFMPEG](https://img.shields.io/badge/FFMPEG-darkgreen), ![HM](https://img.shields.io/badge/HM_jvet_:_hevc_video_frame_analyser-darkgreen)<br><br/>
+- ![AI env](https://img.shields.io/badge/-AI-gray)
+  - ![Desktop Setup](https://img.shields.io/badge/Desktop_Setup_:_CUDA_&_CuDNN-%2376B900), ![ComfyUI](https://img.shields.io/badge/ComfyUI-blue), ![conda](https://img.shields.io/badge/conda-%2344A833)<br><br/>
 - ![](https://img.shields.io/badge/Operating_System-gray)
   - ![](https://img.shields.io/badge/ubuntu-violet), ![](https://img.shields.io/badge/Amazon_Linux-orange)<br><br/>
 
