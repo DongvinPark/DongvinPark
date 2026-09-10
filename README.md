@@ -16,7 +16,7 @@
 - ![RFC-SPEC](https://img.shields.io/badge/Spec_(RFC,_etc)-gray)
   - ![HTTP](https://img.shields.io/badge/HTTP-yellow), ![RTSP](https://img.shields.io/badge/RTSP-informational), ![RTP](https://img.shields.io/badge/RTP-informational), ![STOMP](https://img.shields.io/badge/STOMP-red)<br><br/>
 - ![LANGUAGE](https://img.shields.io/badge/Language-gray)
-  - main : ![JAVA](https://img.shields.io/badge/JAVA-orange) / side pjt : ![C++](https://img.shields.io/badge/C++-informational), ![TypeScript](https://img.shields.io/badge/TypeScript-informational)<br><br/>
+  - MAIN : ![JAVA](https://img.shields.io/badge/JAVA-orange) / Side Pjct : ![C++](https://img.shields.io/badge/C++-informational), ![TypeScript](https://img.shields.io/badge/TypeScript-informational)<br><br/>
 - ![Framework / Library](https://img.shields.io/badge/Framework_&_Library-gray)
   - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen), ![QueryDSL](https://img.shields.io/badge/QueryDSL-brightgreen), ![Boost.Asio](https://img.shields.io/badge/Boost.Asio-informational)<br><br/>
 - ![Database](https://img.shields.io/badge/Database-gray)
