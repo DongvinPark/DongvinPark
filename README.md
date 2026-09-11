@@ -19,8 +19,8 @@
   - MAIN : ![JAVA](https://img.shields.io/badge/JAVA-orange) / Side Pjct : ![C++](https://img.shields.io/badge/C++-informational), ![TypeScript](https://img.shields.io/badge/TypeScript-informational)<br><br/>
 - ![Framework / Library](https://img.shields.io/badge/Framework_&_Library-gray)
   - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen), ![Boost.Asio](https://img.shields.io/badge/Boost.Asio-informational)<br><br/>
-- ![Database](https://img.shields.io/badge/Database-gray)
-  - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue), ![MySQL](https://img.shields.io/badge/MySQL-blue), ![Redis](https://img.shields.io/badge/Redis-red)<br><br/>
+- ![Database,_ORM](https://img.shields.io/badge/Database,_ORM-gray)
+  - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue), ![MySQL](https://img.shields.io/badge/MySQL-blue), ![Hibernate](https://img.shields.io/badge/Hibernate-green), ![Redis](https://img.shields.io/badge/Redis-red)<br><br/>
 - ![](https://img.shields.io/badge/AWS-gray)
   - ![](https://img.shields.io/badge/EC2-orange), ![](https://img.shields.io/badge/RDS-blue)
   - ![](https://img.shields.io/badge/Web_Application_Firewall-orange)
