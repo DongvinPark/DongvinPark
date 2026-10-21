@@ -36,7 +36,7 @@
 - ![AI env](https://img.shields.io/badge/-AI-gray)
   - ![Desktop Setup](https://img.shields.io/badge/Desktop_Setup_:_CUDA_&_CuDNN-%2376B900), ![conda](https://img.shields.io/badge/conda-%2344A833)<br><br/>
 - ![](https://img.shields.io/badge/Operating_System-gray)
-  - ![](https://img.shields.io/badge/ubuntu-violet), ![](https://img.shields.io/badge/Amazon_Linux-orange)<br><br/>
+  - ![](https://img.shields.io/badge/Ubuntu-purple), ![](https://img.shields.io/badge/Amazon_Linux-orange)<br><br/>
 
 <br>
 
