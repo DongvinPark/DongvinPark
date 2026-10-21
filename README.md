@@ -91,13 +91,13 @@
 
 <br>
 
-## ![Spring Framework](https://img.shields.io/badge/-Spring-brightgreen)
+## ![Spring Framework](https://img.shields.io/badge/-Spring-6DB33F)
 - [스프링 프레임워크에서 비동기 멀티스레딩 연산으로 성능 높이기](https://github.com/DongvinPark/Spring_Async_Test)
 - [스프링 프로젝트를 AWS CI/CD 파이프라인에서 blue/green 배포하기](https://github.com/DongvinPark/AWS-Code-Pipe-Line-Test)
 
 <br>
 
-## ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-brightgreen)
+## ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F)
 - [@Transactional의 전파단계 설정하고 테스트하기](https://github.com/DongvinPark/jpa-propagation-test)
 - [JPQL로 N+1문제 해결하면서 동시에 페이징도 사용하기](https://github.com/DongvinPark/jpa-jpql-join-converter-NplusOne-solve)
 - [SpringBoot + STOMP web socket 성능 테스트 - 구조적 한계 파악하기](https://subdued-lentil-b20.notion.site/SpringBoot-STOMP-32f3aeddf7f480f68c6bf0ba2402394d)
