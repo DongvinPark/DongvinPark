@@ -13,7 +13,7 @@
 <br>
 
 ## 기술 스택
-- ![RFC-SPEC](https://img.shields.io/badge/Spec_(RFC,_etc)-gray)
+- ![Protocols](https://img.shields.io/badge/Protocols-gray)
   - ![HTTP](https://img.shields.io/badge/HTTP-yellow), ![RTSP](https://img.shields.io/badge/RTSP-informational), ![RTP](https://img.shields.io/badge/RTP-informational), ![STOMP](https://img.shields.io/badge/STOMP-red)<br><br/>
 - ![LANGUAGE](https://img.shields.io/badge/Language-gray)
   - MAIN : ![JAVA](https://img.shields.io/badge/JAVA-orange) / Side Pjct : ![C++](https://img.shields.io/badge/C++-00599C), ![TypeScript](https://img.shields.io/badge/TypeScript-informational)<br><br/>
@@ -21,21 +21,18 @@
   - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen), ![Boost.Asio](https://img.shields.io/badge/Boost.Asio-F58434)<br><br/>
 - ![Database](https://img.shields.io/badge/Database-gray)
   - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue), ![MySQL](https://img.shields.io/badge/MySQL-blue), ![Redis](https://img.shields.io/badge/Redis-red)<br><br/>
-- ![](https://img.shields.io/badge/AWS-gray)
+- ![](https://img.shields.io/badge/AWS_&_Dev_Ops-gray)
   - ![](https://img.shields.io/badge/EC2-orange), ![](https://img.shields.io/badge/Elastic_Load_Balancer-orange), ![](https://img.shields.io/badge/Web_Application_Firewall-orange)
   - ![](https://img.shields.io/badge/RDS-blue), ![](https://img.shields.io/badge/S3-darkgreen)
-  - ![](https://img.shields.io/badge/Code_Pipeline-blue), ![](https://img.shields.io/badge/Elastic_Container_Service-orange)
+  - ![Docker](https://img.shields.io/badge/Docker-blue)
+  - ![](https://img.shields.io/badge/Code_Pipeline-blue), ![](https://img.shields.io/badge/Elastic_Container_Redistry-orange), ![](https://img.shields.io/badge/Elastic_Container_Service-orange)
   - ![](https://img.shields.io/badge/Elastic_File_System-darkgreen), ![](https://img.shields.io/badge/Elastic_Block_Store-brown)
   - ![](https://img.shields.io/badge/Secrets_Manager-red)
   - ![](https://img.shields.io/badge/Certificate_Manager-red), ![](https://img.shields.io/badge/Route_53-purple)<br><br/>
-- ![Dev/Ops](https://img.shields.io/badge/Dev_Ops-gray)
-  - ![Docker](https://img.shields.io/badge/docker-blue)<br><br/>
 - ![Payments](https://img.shields.io/badge/Payments-gray)
   - ![Toss Payments](https://img.shields.io/badge/Toss_Payments_Billing_API-blue), ![RTDN/ASSN](https://img.shields.io/badge/RTDN_/_ASSN-blue)<br><br/>
-- ![MEDIA_PLAYER](https://img.shields.io/badge/Media_Player-gray)
-  - ![EXO_PLAYER](https://img.shields.io/badge/Google_ExoPlayer-blueviolet)<br><br/>
 - ![MultiMedia_Processing](https://img.shields.io/badge/Multimedia_Processing-gray)
-  - ![FFMPEG](https://img.shields.io/badge/FFMPEG-darkgreen), ![HM](https://img.shields.io/badge/HM_jvet_:_hevc_video_frame_analyser-darkgreen)<br><br/>
+  - ![EXO_PLAYER](https://img.shields.io/badge/Google_ExoPlayer-blueviolet), ![FFMPEG](https://img.shields.io/badge/FFMPEG-darkgreen), ![HM](https://img.shields.io/badge/HM_jvet_:_hevc_video_frame_analyser-darkgreen)<br><br/>
 - ![AI env](https://img.shields.io/badge/-AI-gray)
   - ![Desktop Setup](https://img.shields.io/badge/Desktop_Setup_:_CUDA_&_CuDNN-%2376B900), ![conda](https://img.shields.io/badge/conda-%2344A833)<br><br/>
 - ![](https://img.shields.io/badge/Operating_System-gray)
