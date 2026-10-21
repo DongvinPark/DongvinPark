@@ -18,7 +18,7 @@
 - ![LANGUAGE](https://img.shields.io/badge/Language-gray)
   - MAIN : ![JAVA](https://img.shields.io/badge/JAVA-orange) / Side Pjct : ![C++](https://img.shields.io/badge/C++-00599C), ![TypeScript](https://img.shields.io/badge/TypeScript-informational)<br><br/>
 - ![Framework / Library](https://img.shields.io/badge/Framework_&_Library-gray)
-  - ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F), ![Boost.Asio](https://img.shields.io/badge/Boost.Asio-F58434)<br><br/>
+  - ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F), ![Spring Data JPA](https://img.shields.io/badge/-Spring_Data_JPA-6DB33F), ![Boost.Asio](https://img.shields.io/badge/Boost.Asio-F58434)<br><br/>
 - ![Database](https://img.shields.io/badge/Database-gray)
   - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue), ![MySQL](https://img.shields.io/badge/MySQL-blue), ![Redis](https://img.shields.io/badge/Redis-red)<br><br/>
 - ![](https://img.shields.io/badge/AWS_&_Dev_Ops-gray)
