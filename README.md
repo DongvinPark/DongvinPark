@@ -23,7 +23,7 @@
   - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue), ![MySQL](https://img.shields.io/badge/MySQL-blue), ![Redis](https://img.shields.io/badge/Redis-red)<br><br/>
 - ![](https://img.shields.io/badge/AWS_&_CI/CD-gray)
   - ![](https://img.shields.io/badge/EC2-orange), ![](https://img.shields.io/badge/ELB-orange), ![](https://img.shields.io/badge/WAF-orange)
-  - ![](https://img.shields.io/badge/RDS-blue), ![](https://img.shields.io/badge/S3-darkgreen), ![](https://img.shields.io/badge/CloudFront-violet)
+  - ![](https://img.shields.io/badge/RDS-blue), ![](https://img.shields.io/badge/S3-darkgreen), ![](https://img.shields.io/badge/CloudFront-8C4FFF)
   - ![Docker](https://img.shields.io/badge/Docker-blue), ![](https://img.shields.io/badge/ECR-orange), ![](https://img.shields.io/badge/ECS-orange)
   - ![](https://img.shields.io/badge/CodePipeline-blue), ![](https://img.shields.io/badge/CodeBuild-blue), ![](https://img.shields.io/badge/CodeDeploy-blue)
   - ![](https://img.shields.io/badge/EFS-darkgreen), ![](https://img.shields.io/badge/EBS-brown)
