@@ -23,7 +23,7 @@
   - ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue), ![MySQL](https://img.shields.io/badge/MySQL-blue), ![Redis](https://img.shields.io/badge/Redis-red)<br><br/>
 - ![](https://img.shields.io/badge/AWS_&_Dev_Ops-gray)
   - ![](https://img.shields.io/badge/EC2-orange), ![](https://img.shields.io/badge/Elastic_Load_Balancer-orange), ![](https://img.shields.io/badge/Web_Application_Firewall-orange)
-  - ![](https://img.shields.io/badge/RDS-blue), ![](https://img.shields.io/badge/S3-darkgreen)
+  - ![](https://img.shields.io/badge/RDS-blue), ![](https://img.shields.io/badge/S3-darkgreen), ![](https://img.shields.io/badge/CloudFront-violet)
   - ![Docker](https://img.shields.io/badge/Docker-blue)
   - ![](https://img.shields.io/badge/Code_Pipeline-blue), ![](https://img.shields.io/badge/Elastic_Container_Redistry-orange), ![](https://img.shields.io/badge/Elastic_Container_Service-orange)
   - ![](https://img.shields.io/badge/Elastic_File_System-darkgreen), ![](https://img.shields.io/badge/Elastic_Block_Store-brown)
