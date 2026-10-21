@@ -37,7 +37,7 @@
 - ![MultiMedia_Processing](https://img.shields.io/badge/Multimedia_Processing-gray)
   - ![FFMPEG](https://img.shields.io/badge/FFMPEG-darkgreen), ![HM](https://img.shields.io/badge/HM_jvet_:_hevc_video_frame_analyser-darkgreen)<br><br/>
 - ![AI env](https://img.shields.io/badge/-AI-gray)
-  - ![Desktop Setup](https://img.shields.io/badge/Desktop_Setup_:_CUDA_&_CuDNN-%2376B900), ![ComfyUI](https://img.shields.io/badge/ComfyUI-blue), ![conda](https://img.shields.io/badge/conda-%2344A833)<br><br/>
+  - ![Desktop Setup](https://img.shields.io/badge/Desktop_Setup_:_CUDA_&_CuDNN-%2376B900), ![conda](https://img.shields.io/badge/conda-%2344A833)<br><br/>
 - ![](https://img.shields.io/badge/Operating_System-gray)
   - ![](https://img.shields.io/badge/ubuntu-violet), ![](https://img.shields.io/badge/Amazon_Linux-orange)<br><br/>
 
