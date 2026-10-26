@@ -32,7 +32,7 @@
 - ![Payments](https://img.shields.io/badge/Payments-gray)
   - ![Toss Payments](https://img.shields.io/badge/Toss_Payments_Billing_API-blue), ![RTDN/ASSN](https://img.shields.io/badge/RTDN_/_ASSN-blue)<br><br/>
 - ![](https://img.shields.io/badge/Media_Processing-gray)
-  - ![EXO_PLAYER](https://img.shields.io/badge/Google_ExoPlayer-blueviolet), ![FFMPEG](https://img.shields.io/badge/FFMPEG-darkgreen), ![HM](https://img.shields.io/badge/HM_jvet_:_hevc_video_frame_analyser-darkgreen)<br><br/>
+  - ![EXO_PLAYER](https://img.shields.io/badge/Google_ExoPlayer-blueviolet), ![FFmpeg](https://img.shields.io/badge/FFmpeg-darkgreen)<br><br/>
 - ![AI env](https://img.shields.io/badge/-AI-gray)
   - ![Desktop Setup](https://img.shields.io/badge/Desktop_Setup_:_CUDA_&_CuDNN-%2376B900), ![conda](https://img.shields.io/badge/conda-%2344A833)<br><br/>
 - ![](https://img.shields.io/badge/Operating_System-gray)
